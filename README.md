@@ -5,6 +5,7 @@
 - Intenta ser lo más limpio posible con el código.
 - Intenta implementar buenas prácticas que van a contar en la calificación final de la prueba.
 - Cada vez que aparezca la palabra "interfaz" interpretarla como "componente" o "widget" en dependencia de la tecnología a la que postulo
+- Utilice este diseño para realizar las tareas [figma file](https://www.figma.com/file/LhOQ7SDhDGnf1UaiAG24ji/React-JS-Trainee-Technical-Test?type=design&node-id=0%3A1&t=JCHRBJfKQmdV2t2L-1)
 
 ## Tarea 1 (20 minutos aprox):
 Cree una interfaz simple que muestre la fecha y la hora actuales en el siguiente formato: "DD/MM/YYYY HH:MM:SS". La interfaz debe actualizar la fecha y la hora mostradas cada segundo (un contador).
