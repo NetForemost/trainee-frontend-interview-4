@@ -21,3 +21,5 @@ Cree un component/funcionalidad de paginación que permita al usuario navegar en
 
 ¡Buena suerte!
 
+### Diseño para la aplicación
+>> https://www.figma.com/file/LhOQ7SDhDGnf1UaiAG24ji/React-JS-Trainee-Technical-Test?type=design&node-id=0%3A1&t=E21yQeUXzeRr6VFa-1
